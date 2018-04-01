@@ -34,6 +34,7 @@ namespace calculator
                 value = null;
                 return false;
             }
+            
             value = line;
             return true;
         }
