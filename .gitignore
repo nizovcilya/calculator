@@ -1,10 +1,5 @@
+.gitignore
 .idea/
 bin/
 obj/
-obj/Debug/
-.gitignore
-obj/Debug/calculator.csprojResolveAssemblyReference.cache
-calculator.csprojResolveAssemblyReference.cache
 calculator/obj/Debug/calculator.csprojResolveAssemblyReference.cache
-calculator/obj/Debug/
-calculator/obj/
